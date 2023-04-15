@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <h1 align="center">Hi 👋 I'am Erick Cruz</h1>
   <p align="center">I am a programming enthusiast,I usually like to develop Python projects 🤗 📚 always learning.</p>
@@ -14,8 +13,6 @@
 -->
 
 ### About me:
-
-Here are some ideas to get you started:
 
 - 🔭 Currently working on various Python projects and my website.
 - 🌱 I’m currently learning **TypeScript, React, React Native and Angular**
@@ -36,10 +33,9 @@ Here are some ideas to get you started:
   </div>
   <h3>📚 Frameworks and Libraries</h3>
   <img src="./iconos/django1.svg" alt="django" width="40px">
-  <img src="./iconos/flask.svg" alt="flask" width="40px">
+  <img src="./iconos/flask_rojo.svg" alt="flask" width="40px">
   <img src="./iconos/fastAPI.svg" alt="fastApi" width="50px">
-  <img src="./iconos/html.svg" alt="html" width="50px">
-  <img src="./iconos/pandas.svg" alt="pandas" width="100px">
+  <img src="./iconos/pandas2A.svg" alt="pandas" width="50px">
   <img src="./iconos/numpy.svg" alt="nmpy" width="100px">
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -49,6 +45,7 @@ Here are some ideas to get you started:
   <img src="./iconos/notion.svg" alt="notion" width="50px">
   <img src="./iconos/sqlite.svg" alt="html" width="80px">
 </div>
+
 ---
 
 <!-- stats  -->
