@@ -1,11 +1,3 @@
-<head>
-<script src="https://kit.fontawesome.com/b330652dcc.js" crossorigin="anonymous"></script>
-  <style>
-    body {
-      font-family: 'Roboto';
-    }
-  </style>
-</head>
 
 <div id="header" align="center">
   <h1 align="center">Hi 👋 I'am Erick Cruz</h1>
