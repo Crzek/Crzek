@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <h1 align="center">Hi 👋 I'am Erick Cruz</h1>
   <p align="center">I am a programming enthusiast,I usually like to develop Python projects 🤗</p>
-  <br/>
   <p>📚 always learning.</p>
   <br />
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Crzek&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="disastermove" /> </p>
