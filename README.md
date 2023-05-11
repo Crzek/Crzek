@@ -55,5 +55,6 @@
 
 ### 📊 My GitHub Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crzek&theme=panda&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)[![Crzek Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crzek&hide_progress=false&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
-![Crzek GitHub stats](https://github-readme-stats.vercel.app/api?username=Crzek&show_icons=true&theme=panda)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crzek&theme=panda&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)[![Crzek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crzek&layout=donut&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+![Crzek's GitHub stats](https://github-readme-stats.vercel.app/api?username=crzek&show_icons=true&theme=panda)
+
