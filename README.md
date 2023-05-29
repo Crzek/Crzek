@@ -80,7 +80,7 @@
 <div>
   <div class="program">
     <h3>🛠️ Programming and Markup Languages</h3>
-    <div class="flex">
+    <div class="flex" style="padding:10px; background: white; border-radius:20px">
       <img src="./iconos/python.svg" alt="python" width="50px">
       <img src="./iconos/Js.svg" alt="javascript" width="50px">
       <img src="./iconos/html.svg" alt="html" width="50px">
@@ -90,7 +90,7 @@
 
   <div class="libreria">
     <h3>📚 Frameworks and Libraries</h3>
-    <div class="flex">
+    <div class="flex" style="padding:10px; background: white; border-radius:20px">
       <img src="./iconos/django1.svg" alt="django" width="40px">
       <img src="./iconos/flask.svg" alt="flask" width="40px">
       <img src="./iconos/fastAPI.svg" alt="fastApi" width="50px">
@@ -105,7 +105,7 @@
 
   <div class="data">
     <h3>🗄️ Databases and Cloud Hosting</h3>
-    <div class="flex">
+    <div class="flex" style="padding:10px; background: white; border-radius: 20px">
       <img src="./iconos/mySQL.svg" alt="mySQL" width="50px">
       <img src="./iconos/postgresql-vertical.svg" alt="postgresql" width="50px">
       <img src="./iconos/oracle.svg" alt="oracle-sql" width="100px">
@@ -119,9 +119,7 @@
 
 <!-- stats  -->
 
-### 📊 My GitHub Stats :
-
-<<<<<<< HEAD
+<h3>📊 My GitHub Stats :</h3>
 
 <div class="stats">
   <div>
@@ -142,8 +140,3 @@
       <img class="stat1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crzek&hide_title=true&layout=donut&theme=panda" alt="Crzek Top Langs">
     </a>
 </div>
-=======
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crzek&theme=panda&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)[![Crzek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crzek&layout=donut&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
-![Crzek's GitHub stats](https://github-readme-stats.vercel.app/api?username=crzek&show_icons=true&theme=panda)
-
-> > > > > > > 412f9b2f59b68bdbba80a6a668afb161c0124cfd
