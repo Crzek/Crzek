@@ -1,4 +1,6 @@
-<div id="header" align="center">
+<div style="background-color:white;">
+
+<div id="header" align="center" color="black">
   <h1 align="center">Hi 👋 I'am Erick Cruz</h1>
   <p align="center">I am a programming enthusiast,I usually like to develop Python projects 🤗</p>
   <p>📚 Always learning.</p>
@@ -14,7 +16,7 @@
 **Crzek/Crzek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<div>
+<div style="color:black">
 <h3>About me:</h3>
 
 <ul>
@@ -30,9 +32,9 @@
 
 <!-- Lenguges de programacion -->
 <div>
-  <div class="program">
+  <div color="black">
     <h3>🛠️ Programming and Markup Languages</h3>
-    <div class="flex" style="padding:10px; background: white; border-radius:20px">
+    <div class="flex" style="padding:10px;  border-radius:20px">
       <img src="./iconos/python.svg" alt="python" width="50px">
       <img src="./iconos/Js.svg" alt="javascript" width="50px">
       <img src="./iconos/html.svg" alt="html" width="50px">
@@ -40,9 +42,9 @@
     </div>
   </div>
 
-  <div class="libreria">
+  <div >
     <h3>📚 Frameworks and Libraries</h3>
-    <div class="flex" style="padding:10px; background: white; border-radius:20px">
+    <div class="flex" style="padding:10px;  border-radius:20px">
       <img src="./iconos/django1.svg" alt="django" width="40px">
       <img src="./iconos/flask.svg" alt="flask" width="40px">
       <img src="./iconos/fastAPI.svg" alt="fastApi" width="50px">
@@ -55,9 +57,9 @@
 
   </div>
 
-  <div class="data">
+  <div ">
     <h3>🗄️ Databases and Cloud Hosting</h3>
-    <div class="flex" style="padding:10px; background: white; border-radius: 20px">
+    <div class="flex" style="padding:10px; border-radius: 20px">
       <img src="./iconos/mySQL.svg" alt="mySQL" width="50px">
       <img src="./iconos/postgresql-vertical.svg" alt="postgresql" width="50px">
       <img src="./iconos/oracle.svg" alt="oracle-sql" width="100px">
@@ -91,4 +93,5 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img class="stat1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crzek&hide_title=true&layout=donut&theme=panda" alt="Crzek Top Langs">
     </a>
+</div>
 </div>
