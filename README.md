@@ -121,6 +121,8 @@
 
 ### 📊 My GitHub Stats :
 
+<<<<<<< HEAD
+
 <div class="stats">
   <div>
     <p>💻 GitHub Profile Stats</p>
@@ -140,3 +142,8 @@
       <img class="stat1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crzek&hide_title=true&layout=donut&theme=panda" alt="Crzek Top Langs">
     </a>
 </div>
+=======
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crzek&theme=panda&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)[![Crzek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crzek&layout=donut&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+![Crzek's GitHub stats](https://github-readme-stats.vercel.app/api?username=crzek&show_icons=true&theme=panda)
+
+> > > > > > > 412f9b2f59b68bdbba80a6a668afb161c0124cfd
