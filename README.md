@@ -24,7 +24,7 @@
 <li>🌱 I’m currently learning <span>TypeScript, React, React Native and Angular</span></li>
 <li>🤔 I’m looking for help with <span>Kubernetes<span></li>
 <li>💬 Ask me about <span>Python, Django, Flask, FastAPI</span></li>
-<li>📫 How to reach me: <a href="mailto:crzerick6@gmail.com" target="_blank">Click here</a></li>
+<li>📫 How to reach me: <a href="mailto:crzerick6@gmail.com" target="_blank">Contact with Erick</a></li>
 </ul>
 <div>
 
