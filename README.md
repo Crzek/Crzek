@@ -34,25 +34,25 @@
 <div>
   <div color="black">
     <h3>🛠️ Programming and Markup Languages</h3>
-    <div class="flex" style="padding:10px;  border-radius:20px">
-      <img src="./iconos/python.svg" title="Python" alt="python" width="50px">
-      <img src="./iconos/Js.svg" title="JavasScript" alt="javascript" width="50px">
-      <img src="./iconos/html.svg" title="Html" alt="html" width="50px">
-      <img src="./iconos/css.svg" title="CSS" alt="css" width="40px">
+    <div class="flex" style="padding:10px;  border-radius:20px">&nbsp;
+      <img src="./iconos/python.svg" title="Python" alt="python" width="50px">&nbsp;
+      <img src="./iconos/Js.svg" title="JavasScript" alt="javascript" width="50px">&nbsp;
+      <img src="./iconos/html.svg" title="Html" alt="html" width="50px">&nbsp;
+      <img src="./iconos/css.svg" title="CSS" alt="css" width="40px">&nbsp;
     </div>
   </div>
 
   <div >
     <h3>📚 Frameworks and Libraries</h3>
     <div class="flex" style="padding:10px;  border-radius:20px">
-      <img src="./iconos/django1.svg" title="Django" alt="django" width="40px">
-      <img src="./iconos/flask-redondeado.svg" title="Flask" alt="flask" width="40px">
-      <img src="./iconos/fastAPI.svg" title="FastAPI" alt="fastApi" width="50px">
-      <img src="./iconos/pandas-cielo.svg" title="Pandas" alt="pandas" width="50px">
-      <img src="./iconos/numpy-cielo.svg" title="numpy" alt="numpy" width="100px">
-      <img src="./iconos/python-matplotlib.jpg" style=" border-radius: 10px" title="MathPlotLib" alt="mathplotlib" width="100px">
-      <img src="./iconos/scrapy.png" style=" border-radius: 10px" title="Scrapy" alt="scrapy" width="150px">
-      <img src="./iconos/PyQt-python.svg" title="PyQt" alt="PyQt" width="50px">  
+      <img src="./iconos/django1.svg" title="Django" alt="django" width="40px">&nbsp;
+      <img src="./iconos/flask-redondeado.svg" title="Flask" alt="flask" width="40px">&nbsp;
+      <img src="./iconos/fastAPI.svg" title="FastAPI" alt="fastApi" width="50px">&nbsp;
+      <img src="./iconos/pandas-cielo.svg" title="Pandas" alt="pandas" width="50px">&nbsp;
+      <img src="./iconos/numpy-cielo.svg" title="numpy" alt="numpy" width="100px">&nbsp;
+      <img src="./iconos/python-matplotlib.jpg" style=" border-radius: 10px" title="MathPlotLib" alt="mathplotlib" width="100px">&nbsp;
+      <img src="./iconos/scrapy.png" style=" border-radius: 10px" title="Scrapy" alt="scrapy" width="150px">&nbsp;
+      <img src="./iconos/PyQt-python.svg" title="PyQt" alt="PyQt" width="50px">&nbsp;
     </div>
 
   </div>
@@ -60,11 +60,11 @@
   <div ">
     <h3>🗄️ Databases and Cloud Hosting</h3>
     <div class="flex" style="padding:10px; border-radius: 20px">
-      <img src="./iconos/mySQL.svg" title="MySQL" alt="mySQL" width="50px">
-      <img src="./iconos/postgresql-vertical.svg" title="PostgreSQL" alt="postgresql" width="50px">
-      <img src="./iconos/oracle.svg" title="OracleSQL" alt="oracle-sql" width="100px">
-      <img src="./iconos/notion.svg" title="Notion" alt="notion" width="50px">
-      <img src="./iconos/sqlite-redondo.svg" title="SQLite" alt="SQLite" width="80px">
+      <img src="./iconos/mySQL.svg" title="MySQL" alt="mySQL" width="50px">&nbsp;
+      <img src="./iconos/postgresql-vertical.svg" title="PostgreSQL" alt="postgresql" width="50px">&nbsp;
+      <img src="./iconos/oracle.svg" title="OracleSQL" alt="oracle-sql" width="100px">&nbsp;
+      <img src="./iconos/notion.svg" title="Notion" alt="notion" width="50px">&nbsp;
+      <img src="./iconos/sqlite-redondo.svg" title="SQLite" alt="SQLite" width="80px">&nbsp;
     </div>
   </div>
 </div>
