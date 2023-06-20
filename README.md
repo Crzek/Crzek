@@ -22,8 +22,13 @@
 <li>🔭 Currently working on various Python projects and my website</li>
 <li>🌱 I’m currently learning <span>TypeScript, React, React Native and Flutter</span></li>
 <li>🤔 I’m looking for help with <span>Kubernetes<span></li>
+<<<<<<< HEAD
 <li>💬 Ask me about <span>Python, Django, Flask, FastAPI, JavaScript, React</span></li>
 <li>📫 How to reach me: <a href="mailto:crzerick6@gmail.com" target="_blank">Click here</a></li>
+=======
+<li>💬 Ask me about <span>Python, Django, Flask, FastAPI</span></li>
+<li>📫 How to reach me: <a href="mailto:crzerick6@gmail.com" target="_blank">Contact with Erick</a></li>
+>>>>>>> 4aa22ace3bebdeabbc64f36512a94733bbaccc50
 </ul>
 <div>
 
