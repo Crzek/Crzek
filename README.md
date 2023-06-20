@@ -2,7 +2,7 @@
 
 <div id="header" align="center" color="black">
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hack+NF&weight=900&size=28&duration=1&pause=1&color=F74C70&center=true&vCenter=true&repeat=false&width=500&lines=Erick+Cruz" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hack+NF&weight=900&size=25&duration=1&pause=1&color=F74C70&center=true&vCenter=true&repeat=false&width=500&lines=Erick+Cruz" alt="Typing SVG" /></a>
   </p>
   <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hack+NF&duration=3000&pause=2000&color=F74C70&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Python+and+React+Developer+%E2%9C%A8;4%2B+years+of+experience+developing+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%93%9A+Always+learning+new+things+%F0%9F%A4%97" alt="Python and React Developing" /></a>
@@ -23,12 +23,10 @@
 <h3>About me:</h3>
 
 <ul>
-<li>🔭 Currently working on various Python projects and my website</li>
+<li>🔭 Currently working on various Python projects and my WebSite</li>
 <li>🌱 I’m currently learning <span>TypeScript, React, React Native and Flutter</span></li>
 <li>🤔 I’m looking for help with <span>Kubernetes<span></li>
 <li>💬 Ask me about <span>Python, Django, Flask, FastAPI, JavaScript, React</span></li>
-<li>📫 How to reach me: <a href="mailto:crzerick6@gmail.com" target="_blank">Click here</a></li>
-<li>💬 Ask me about <span>Python, Django, Flask, FastAPI</span></li>
 <li>📫 How to reach me: <a href="mailto:crzerick6@gmail.com" target="_blank">Contact with Erick</a></li>
 </ul>
 <div>
