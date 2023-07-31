@@ -50,7 +50,7 @@
   <div >
     <h3>📚 Frameworks and Libraries</h3>
     <div class="flex" style="padding:10px;  border-radius:20px">
-      <img src="./iconos/dejango.svg" title="Django" alt="django" width="90px">&nbsp;
+      <img src="./iconos/dejango.svg" title="Django" alt="django" width="70px">&nbsp;
       <img src="./iconos/flask-redondeado.svg" title="Flask" alt="flask" width="40px">&nbsp;
       <img src="./iconos/fastAPI.svg" title="FastAPI" alt="fastApi" width="50px">&nbsp;
       <img src="./iconos/pandas-cielo.svg" title="Pandas" alt="pandas" width="50px">&nbsp;
