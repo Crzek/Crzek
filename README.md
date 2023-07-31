@@ -88,22 +88,31 @@
 <h3>📊 My GitHub Stats :</h3>
 
 <div class="stats">
-  <div>
+  <!-- <div>
     <p>💻 GitHub Profile Stats</p>
     <img class="stat1" src="https://github-readme-stats.vercel.app/api?username=Crzek&show_icons=true&theme=panda" alt="Crzek GitHub stats">
-  </div>
+  </div> -->
 
   <div>
     <p>🔥 Streak Stats</p>
     <a  href="https://git.io/streak-stats">
       <img class="stat1"  src="https://github-readme-streak-stats.herokuapp.com?user=Crzek&theme=panda&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak">
     </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img class="stat1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crzek&hide_title=false&layout=donut&theme=panda" alt="Crzek Top Langs">
+    </a>
+  </div>
+  <div>
+    <!-- <p>🔥Top Lenguage</p> -->
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=Crzek&theme=dracula">
+      <img class="stat1" src="https://github.com/Crzek/github-readme-activity-graph" alt="Crzek's Activity Graph">
+    </a>
   </div>
 
-  <div>
+  <!-- <div>
     <p>🔥Top Lenguage</p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img class="stat1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crzek&hide_title=true&layout=donut&theme=panda" alt="Crzek Top Langs">
+      <img class="stat1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crzek&hide_title=false&layout=donut&theme=panda" alt="Crzek Top Langs">
     </a>
-</div>
+  </div> -->
 </div>
