@@ -52,7 +52,7 @@
     <div class="flex" style="padding:10px;  border-radius:20px">
       <img src="./iconos/dejango.svg" title="Django" alt="Django" width="60px">&nbsp;
       <img src="./iconos/flask-redondeado.svg" title="Flask" alt="flask" width="40px">&nbsp;
-      <img src="./iconos/FastAPI2.png" title="FastAPI" alt="fastApi" width="50px">&nbsp;
+      <img src="./iconos/FastAPI2.png" title="FastAPI" alt="fastApi" width="100px">&nbsp;
       <img src="./iconos/pandas-cielo.svg" title="Pandas" alt="pandas" width="50px">&nbsp;
       <img src="./iconos/numpy-cielo.svg" title="numpy" alt="numpy" width="100px">&nbsp;
       <img src="./iconos/python-matplotlib.jpg" style=" border-radius: 10px" title="MathPlotLib" alt="mathplotlib" width="100px">&nbsp;
