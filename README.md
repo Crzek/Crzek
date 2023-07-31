@@ -41,8 +41,8 @@
       <img src="./iconos/python.svg" title="Python" alt="python" width="50px">&nbsp;
       <img src="./iconos/Js.svg" title="JavasScript" alt="javascript" width="50px">&nbsp;
       <img src="./iconos/html.svg" title="Html" alt="html" width="50px">&nbsp;
-      <img src="./iconos/css.svg" title="CSS" alt="css" width="40px">&nbsp;
-      <img src="./iconos/gnu-bash.png" title="Bash" alt="Bash" width="40px">&nbsp;
+      <img src="./iconos/css.svg" title="CSS" alt="css" width="50px">&nbsp;
+      <img src="./iconos/gnu-bash.png" title="Bash" alt="Bash" width="60px">&nbsp;
       <!-- <img src="./iconos/nodeJs.svg" title="NodeJS" alt="NodeJS" width="40px">&nbsp; -->
     </div>
   </div>
@@ -50,7 +50,7 @@
   <div >
     <h3>📚 Frameworks and Libraries</h3>
     <div class="flex" style="padding:10px;  border-radius:20px">
-      <img src="./iconos/django1.svg" title="Django" alt="django" width="40px">&nbsp;
+      <img src="./iconos/dejango.svg" title="Django" alt="django" width="50px">&nbsp;
       <img src="./iconos/flask-redondeado.svg" title="Flask" alt="flask" width="40px">&nbsp;
       <img src="./iconos/fastAPI.svg" title="FastAPI" alt="fastApi" width="50px">&nbsp;
       <img src="./iconos/pandas-cielo.svg" title="Pandas" alt="pandas" width="50px">&nbsp;
@@ -62,6 +62,8 @@
       <img src="./iconos/NextJs.svg" title="NextJS" alt="NextJS" width="70px">&nbsp;
       <img src="./iconos/react-native.png" title="React Navite" alt="React Native" width="40px borderRadious">&nbsp;
       <img src="./iconos/redux.svg" title="Redux" alt="Redux" width="50px">&nbsp;
+      <img src="./iconos/Vite.svg" title="Vite" alt="Vite" width="50px">&nbsp;
+
     </div>
 
   </div>
