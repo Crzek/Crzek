@@ -96,12 +96,12 @@
   <div>
     <p>🔥 Streak Stats</p>
     <a  href="https://git.io/streak-stats">
-      <img class="stat1"  src="https://github-readme-streak-stats.herokuapp.com?user=Crzek&theme=panda&date_format=n%2Fj%5B%2FY%5D" width="600px" alt="GitHub Streak">
+      <img class="stat1"  src="https://github-readme-streak-stats.herokuapp.com?user=Crzek&theme=panda&date_format=n%2Fj%5B%2FY%5D" width="500px" alt="GitHub Streak">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img class="stat1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crzek&hide_title=false&layout=donut&theme=panda" alt="Crzek Top Langs">
     </a>
-  </div>
+  </div><br/>
   <div>
     <!-- <p>🔥Top Lenguage</p> -->
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=Crzek&theme=dracula">
