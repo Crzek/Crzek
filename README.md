@@ -59,7 +59,7 @@
       <img src="./iconos/scrapy.png" style=" border-radius: 10px" title="Scrapy" alt="scrapy" width="150px">&nbsp;
       <img src="./iconos/PyQt-python.svg" title="PyQt" alt="PyQt" width="50px">&nbsp;
       <img src="./iconos/react.svg" title="React.js" alt="React.js" width="50px">&nbsp;
-      <img src="./iconos/NextJs.svg" title="NextJS" alt="NextJS" width="50px">&nbsp;
+      <img src="./iconos/NextJs.svg" title="NextJS" alt="NextJS" width="70px">&nbsp;
       <img src="./iconos/react-native.png" title="React Navite" alt="React Native" width="40px borderRadious">&nbsp;
       <img src="./iconos/redux.svg" title="Redux" alt="Redux" width="50px">&nbsp;
     </div>
