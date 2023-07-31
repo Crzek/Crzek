@@ -42,6 +42,8 @@
       <img src="./iconos/Js.svg" title="JavasScript" alt="javascript" width="50px">&nbsp;
       <img src="./iconos/html.svg" title="Html" alt="html" width="50px">&nbsp;
       <img src="./iconos/css.svg" title="CSS" alt="css" width="40px">&nbsp;
+      <img src="./iconos/gnu-bash.png" title="Bash" alt="Bash" width="40px">&nbsp;
+      <!-- <img src="./iconos/nodeJs.svg" title="NodeJS" alt="NodeJS" width="40px">&nbsp; -->
     </div>
   </div>
 
@@ -56,6 +58,10 @@
       <img src="./iconos/python-matplotlib.jpg" style=" border-radius: 10px" title="MathPlotLib" alt="mathplotlib" width="100px">&nbsp;
       <img src="./iconos/scrapy.png" style=" border-radius: 10px" title="Scrapy" alt="scrapy" width="150px">&nbsp;
       <img src="./iconos/PyQt-python.svg" title="PyQt" alt="PyQt" width="50px">&nbsp;
+      <img src="./iconos/react.svg" title="React.js" alt="React.js" width="50px">&nbsp;
+      <img src="./iconos/NextJs.svg" title="NextJS" alt="NextJS" width="50px">&nbsp;
+      <img src="./iconos/react-native.png" title="React Navite" alt="React Native" width="50px borderRadious">&nbsp;
+      <img src="./iconos/redux.svg" title="Redux" alt="Redux" width="50px">&nbsp;
     </div>
 
   </div>
@@ -68,6 +74,8 @@
       <img src="./iconos/oracle.svg" title="OracleSQL" alt="oracle-sql" width="100px">&nbsp;
       <img src="./iconos/notion.svg" title="Notion" alt="notion" width="50px">&nbsp;
       <img src="./iconos/sqlite-redondo.svg" title="SQLite" alt="SQLite" width="80px">&nbsp;
+      <img src="./iconos/firebase-icon.svg" title="Firebase" alt="Firebase" width="50px">&nbsp;
+      <!-- <img src="./iconos/mongo.jfif" title="MongoBd" alt="MongoBd" width="50px">&nbsp; -->
     </div>
   </div>
 </div>
