@@ -63,7 +63,6 @@
       <img src="./iconos/react-native.png" title="React Navite" alt="React Native" width="40px borderRadious">&nbsp;
       <img src="./iconos/redux.svg" title="Redux" alt="Redux" width="50px">&nbsp;
       <img src="./iconos/Vite.svg" title="Vite" alt="Vite" width="50px">&nbsp;
-
     </div>
 
   </div>
