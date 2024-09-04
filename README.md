@@ -39,14 +39,14 @@
     <h3>🛠️ Programming and Markup Languages</h3>
     <div class="flex" style="padding:10px;  border-radius:20px">&nbsp;
       <img src="./iconos/python.svg" title="Python" alt="python" width="50px">&nbsp;
-      <img src="./iconos/Js.svg" title="JavasScript" alt="javascript" width="50px">&nbsp;
-      <img src="./iconos/html.svg" title="Html" alt="html" width="50px">&nbsp;
       <img src="./iconos/css.svg" title="CSS" alt="css" width="45px">&nbsp;
       <img src="./iconos/gnu-bash.png" title="Bash" alt="Bash" width="50px">&nbsp;
       <img src="./iconos/c.svg" title="C" alt="C" width="50px">&nbsp;
       <img src="./iconos/cpp.svg" title="Cpp" alt="Cpp" width="50px">&nbsp;
       <img src="./iconos/csharp.svg" title="C#" alt="C#" width="50px">&nbsp;
       <!-- <img src="./iconos/nodeJs.svg" title="NodeJS" alt="NodeJS" width="40px">&nbsp; -->
+      <img src="./iconos/Js.svg" title="JavasScript" alt="javascript" width="50px">&nbsp;
+      <img src="./iconos/html.svg" title="Html" alt="html" width="50px">&nbsp;
     </div>
   </div>
 
