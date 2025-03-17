@@ -1,4 +1,4 @@
-<div style="background-color:white;">
+<div style="background-color:black;">
   <div id="header" align="center" color="black">
     <p align="center">
       <a href="https://git.io/typing-svg">
@@ -30,7 +30,8 @@
   <div style="color:black">
     <h3>About me:</h3>
     <ul>
-      <li>🔭 Currently working on various Python projects and my WebSite <a href="https://cruzerick.com">cruzerick.com</a></li>
+      <li>🔭 Currently working on various Python projects and my WebSite <a
+          href="https://cruzerick.com">cruzerick.com</a></li>
       <li>🌱 I’m currently learning Go and making my own AI models</li>
       <li>🤔 I’m looking for help with Kubernetes</li>
       <li>💬 Ask me about Python, Django, Flask, FastAPI, React, Vue, SpringBoot</li>
@@ -44,9 +45,10 @@
           <h3>🛠️ Programming and Markup Languages</h3>
           <div class="flex" style="padding:10px;  border-radius:20px">&nbsp;
             <img src="./iconos/python.svg" title="Python" alt="python" width="50px">&nbsp;
-            <img src="./iconos/java.svg" title="Java" alt="java" width="60px">&nbsp;
+            <img src="./iconos/java.svg" title="Java" alt="java" width="50px" style="border-radius:10px">&nbsp;
             <img src="./iconos/Js.svg" title="JavasScript" alt="javascript" width="50px">&nbsp;
-            <img src="./iconos/typescript.svg" title="TypeScript" alt="typescript" width="50px">&nbsp;
+            <img src="./iconos/typescript.svg" title="TypeScript" alt="typescript" width="50px"
+              style="border-radius:10px">&nbsp;
             <img src="./iconos/nodeJs.svg" title="NodeJS" alt="NodeJS" width="45px">&nbsp;
             <img src="./iconos/gnu-bash.png" title="Bash" alt="Bash" width="50px">&nbsp;
             <img src="./iconos/go-8.svg" title="Go" alt="Go" width="35px">&nbsp;
@@ -60,25 +62,35 @@
         <div>
           <h3>📚 Frameworks and Libraries</h3>
           <div class="flex" style="padding:10px;  border-radius:20px">
-            <img src="./iconos/spring-boot-1.svg" title="Spring Boot & Spring Data (JPA)" alt="Spring Boot" width="50px">&nbsp;
+            <img src="./iconos/spring-boot-1.svg" title="Spring Boot & Spring Data (JPA)" alt="Spring Boot"
+              width="50px">&nbsp;
             <img src="./iconos/hibernate.svg" title="Hibernate" alt="hibernate" width="40px">&nbsp;
             <img src="./iconos/dejango.svg" title="Django" alt="Django" width="60px">&nbsp;
-            <img src="./iconos/flask-redondeado.svg" title="Flask" alt="flask" width="40px">&nbsp;
+            <img src="./iconos/flask-redondeado.svg" style="background-color: white;border-radius: 10px; padding: 3px;"
+              title="Flask" alt="flask" width="40px">&nbsp;
             <img src="./iconos/FastAPI2.png" title="FastAPI" alt="fastApi" width="150px">&nbsp;
-            <img src="./iconos/jupyter.svg" style=" border-radius: 10px" title="MathPlotLib" alt="mathplotlib" width="40px">&nbsp;
+            <img src="./iconos/jupyter.svg" style="border-radius: 10px; background-color: white;" title="MathPlotLib"
+              alt="mathplotlib" width="40px">&nbsp;
             <img src="./iconos/pandas-cielo.svg" title="Pandas" alt="pandas" width="40px">&nbsp;
             <img src="./iconos/numpy-cielo.svg" title="numpy" alt="numpy" width="100px">&nbsp;
-            <img src="./iconos/python-matplotlib.jpg" style=" border-radius: 10px" title="MathPlotLib" alt="mathplotlib" width="100px">&nbsp;
-            <img src="./iconos/Scikit_learn.svg" style=" border-radius: 10px" title="Scikit-learn" alt="scikit-learn" width="80px">&nbsp;
-            <img src="./iconos/tensorflow-2.svg" style=" border-radius: 10px" title="TensorFlow" alt="tensorflow" width="40px">&nbsp;
-            <img src="./iconos/pytorch-2.svg" style=" border-radius: 10px" title="PyTorch" alt="pytorch" width="90px">&nbsp;
-            <img src="./iconos/selenium-1.svg" style=" border-radius: 10px" title="Selenium" alt="selenium" width="110px">&nbsp;
+            <img src="./iconos/python-matplotlib.jpg" style=" border-radius: 10px" title="MathPlotLib" alt="mathplotlib"
+              width="100px">&nbsp;
+            <img src="./iconos/Scikit_learn.svg" style=" border-radius: 10px; background-color: white; padding: 5px;"
+              title="Scikit-learn" alt="scikit-learn" width="80px">&nbsp;
+            <img src="./iconos/tensorflow-2.svg" style=" border-radius: 10px" title="TensorFlow" alt="tensorflow"
+              width="40px">&nbsp;
+            <img src="./iconos/pytorch-2.svg" style=" border-radius: 10px;background-color: white; padding: 3px;"
+              title="PyTorch" alt="pytorch" width="90px">&nbsp;
+            <img src="./iconos/selenium-1.svg" style=" border-radius: 10px;background-color: white; padding: 5px;"
+              title="Selenium" alt="selenium" width="110px">&nbsp;
             <img src="./iconos/scrapy.png" style=" border-radius: 10px" title="Scrapy" alt="scrapy" width="110px">&nbsp;
             <img src="./iconos/PyQt-python.svg" title="PyQt" alt="PyQt" width="40px">&nbsp;
             <img src="./iconos/react.svg" title="React.js" alt="React.js" width="50px">&nbsp;
             <img src="./iconos/vue.svg" title="Vue.js" alt="Vue.js" width="50px">&nbsp;
-            <img src="./iconos/NextJs.svg" title="NextJS" alt="NextJS" width="70px">&nbsp;
-            <img src="./iconos/react-native.png" title="React Native" alt="React Native" width="40px" style="border-radius: 10px">&nbsp;
+            <img src="./iconos/NextJs.svg" style="background-color:white;border-radius: 10px; padding:5px;"
+              title="NextJS" alt="NextJS" width="60px">&nbsp;
+            <img src="./iconos/react-native.png" title="React Native" alt="React Native" width="40px"
+              style="border-radius: 10px">&nbsp;
             <img src="./iconos/redux.svg" title="Redux" alt="Redux" width="50px">&nbsp;
             <img src="./iconos/pinia-1.svg" title="Pinia Contex" alt="Pinia" width="35px">&nbsp;
             <img src="./iconos/sass-1.svg" title="Sass" alt="Sass" width="50px">&nbsp;
@@ -94,9 +106,11 @@
             <img src="./iconos/notion.svg" title="Notion" alt="notion" width="50px">&nbsp;
             <img src="./iconos/redis.svg" title="Redis" alt="redis" width="45px">&nbsp;
             <img src="./iconos/firebase-icon.svg" title="Firebase" alt="Firebase" width="40px">&nbsp;
-            <img src="./iconos/mongodb.svg" title="MongoDB" alt="MongoDB" width="50px">&nbsp;
+            <img src="./iconos/mongodb.svg" style="background-color: white; border-radius: 10px;" title="MongoDB"
+              alt="MongoDB" width="50px">&nbsp;
             <!-- <img src="./iconos/mongo.jfif" title="MongoBd" alt="MongoBd" width="50px">&nbsp; -->
-            <img src="./iconos/airtable-1.svg" title="AirTable" alt="airtable" width="100px">&nbsp;
+            <img src="./iconos/airtable-1.svg" style="background-color: white; border-radius: 10px;padding: 5px;"
+              title="AirTable" alt="airtable" width="100px">&nbsp;
           </div>
         </div>
       </div>
